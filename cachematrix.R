@@ -1,4 +1,6 @@
 # PROGRAMMING ASSIGNMENT 2 - LEXICAL SCOPE
+# Maria Pia Bernales Oliden
+## Coursera - R Programming
 
 
 ## First, we're gonna create a function that will allow us to create a matrix object
